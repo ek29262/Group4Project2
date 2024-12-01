@@ -20,7 +20,13 @@ There is considerable more border activity between the United States and Mexico.
 
 ![image](https://github.com/user-attachments/assets/e42fff08-eb7e-4c4c-972a-821acd06defd)
 
-![image](https://github.com/user-attachments/assets/9d2499c2-672b-4c07-b6d6-37e064c2a8df)                   ![image](https://github.com/user-attachments/assets/e42fff08-eb7e-4c4c-972a-821acd06defd)
+![image](https://github.com/user-attachments/assets/9d2499c2-672b-4c07-b6d6-37e064c2a8df)                   
+
+
+Covid-19 heavily decreased the amount of border crossings. The border was closed for non-essential travel, and it took some months for the amount of border crossings to recover as restrictions loosened up. A sharp decline can be seen in April 2020 which marks the peak of Covid-19 in the United States.
+
+![image](https://github.com/user-attachments/assets/3e82a0f9-2aef-4b33-a815-955fa424e6a4)
+
 
 
 ## Question 1:
