@@ -20,10 +20,12 @@ There is considerable more border activity between the United States and Mexico.
 
 ![image](https://github.com/user-attachments/assets/e42fff08-eb7e-4c4c-972a-821acd06defd)
 
-![image](https://github.com/user-attachments/assets/9d2499c2-672b-4c07-b6d6-37e064c2a8df)
+![image](https://github.com/user-attachments/assets/9d2499c2-672b-4c07-b6d6-37e064c2a8df)                   ![image](https://github.com/user-attachments/assets/e42fff08-eb7e-4c4c-972a-821acd06defd)
 
 
 ## Question 1:
 
 Are there any trends in border crossing based on time dependent factors, such as seasons, holidays, or other special calendar events?
+
+This question can help dictate if their are any fluctations in border crossing volume
 
