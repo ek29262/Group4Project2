@@ -41,5 +41,5 @@ Migration over many years follows a consistent pattern.
 
 ![image](https://github.com/user-attachments/assets/75cfb09e-b418-40a3-bfbb-cc6a0547542a)
 
-Migration peaks in the summer months and falls in the winter months. This suggest that the weather brought about by winter creates adverse conditions which discourages travel. There is a slight climb in the month of December. This suggest families are crossing the border to see relatives for Christmas and potentially increased movements of goods to meet increased demand for the holidays. After December border crossings continue to fall until reaching their lowest point in February. 
+Migration peaks in the summer months and falls in the winter months. This suggest that the weather brought about by winter creates adverse conditions which discourages travel. There is a slight climb in the month of December. This suggest families are crossing the border to see relatives for Christmas and that there is increased movements of goods to meet increased demand for the holidays. After December border crossings continue to fall until reaching their lowest point in February. 
 
