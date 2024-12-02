@@ -33,5 +33,5 @@ Covid-19 heavily decreased the amount of border crossings. The border was closed
 
 Are there any trends in border crossing based on time dependent factors, such as seasons, holidays, or other special calendar events?
 
-This question can help dictate if their are any fluctations in border crossing volume
+This question can help dictate if their are any fluctations in border crossing volume based on time dependent factors. From the fluctations we can try to create some explanations. By anticipating an increase in border crossing volume Customs and Border Protection can prepare their resources to accomodate the amount of traffic coming in. This information can also help drive policy decisions and can be used to help determine the economic impact of border crossing activity.
 
