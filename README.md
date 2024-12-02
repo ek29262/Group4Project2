@@ -13,6 +13,10 @@ Our dataset was obtained from https://catalog.data.gov/dataset/border-crossing-e
 The dataset contains dimensions that capture the mode of transportation, the date of crossing (month, year), the volume on the date, the name of the port and the city the port belongs to. The data goes as far back as 1996 and as recent as January 2024.
 
 
+## Data Manipulations
+
+In tableau we set the date of crossing as a date data type. 
+
 ## Considerations:
 
 There is considerable more border activity between the United States and Mexico. Because of this our group decided to focus our analysis around the United States and Mexican border.
