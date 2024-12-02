@@ -1,6 +1,6 @@
 # Group4Project2
 
-## Team Members:
+## Group 4 Team Members:
 
 - Abhi Malik [@Malik01010](https://github.com/Malik01010)
 - Eric Kho [@ek29262](https://github.com/ek29262)
