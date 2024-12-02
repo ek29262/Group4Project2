@@ -43,3 +43,13 @@ Migration over many years follows a consistent pattern.
 
 Migration peaks in the summer months and falls in the winter months. This suggest that the weather brought about by winter creates adverse conditions which discourages travel. There is a slight climb in the month of December. This suggest families are crossing the border to see relatives for Christmas and that there is increased movements of goods to meet increased demand for the holidays. After December border crossings continue to fall until reaching their lowest point in February. 
 
+## Question 2:
+
+What are the trends concerning transportation modes? Do different ports of entry see more of certain types of transportation?
+
+This question helps to identify the main purpose each port serves. By understanding the main use of each port policy decisions and infastructure can be created to be service each port's needs. A port mainly servicing trucks would need more intensive searches and documenting of goods coming in by Customs and Border. Whilst a port mainly serving pedestrians and family vehicles would need different types of processing and customs, such as more biometrics or humanitarian services.
+
+![image](https://github.com/user-attachments/assets/6f529d67-3b10-4652-b6b3-42c983572ce4)
+
+This first graph shows the ports with the highest passenger vehicles and pedestrian crossings. San Ysidro takes in the highest amount of this kind of traffic. Thus it should be serviced to accomodate this kind of traffic and volume.
+
