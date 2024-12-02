@@ -51,5 +51,10 @@ This question helps to identify the main purpose each port serves. By understand
 
 ![image](https://github.com/user-attachments/assets/6f529d67-3b10-4652-b6b3-42c983572ce4)
 
-This first graph shows the ports with the highest passenger vehicles and pedestrian crossings. San Ysidro takes in the highest amount of this kind of traffic. Thus it should be serviced to accomodate this kind of traffic and volume.
+This first graph shows the ports with the highest passenger vehicles and pedestrian crossings. San Ysidro takes in the highest amount of this kind of traffic. Thus it should be serviced to accomodate this kind of traffic and volume. If policy makers felt the need to restrict migration most unrelated to trade they would most likely target these ports and slow migration through them. 
+
+![image](https://github.com/user-attachments/assets/ed19ac2c-cee9-4132-8eb5-b44bf2b7a310)
+
+This graph shows the ports with the highest amount of trucks coming in. The movement of goods is facilitated by trucks, and indicates trade and commerce. Laredo has the highest truck volume and makes up 57.6% of land port trade in the state of Texas, or about $234.7 billion in the year 2018 (Texas.GOV). Monitoring this port can help forcast finances, and drive economic decisions for policy makers. 
+
 
