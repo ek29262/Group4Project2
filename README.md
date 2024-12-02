@@ -2,7 +2,11 @@
 
 ## Team Members:
 
-
+- Abhi Malik [@Malik01010](https://github.com/Malik01010)
+- Eric Kho [@ek29262](https://github.com/ek29262)
+- Arish Petani [@Arishpetani](https://github.com/Arishpetani)
+- Samuel Suen [@samsuen999](https://github.com/samsuen999)
+- Dan [@danmmosu](https://github.com/danmmosu)
 
 
 
@@ -61,4 +65,6 @@ This first graph shows the ports with the highest passenger vehicles and pedestr
 
 This graph shows the ports with the highest amount of trucks coming in. The movement of goods is facilitated by trucks, and indicates trade and commerce. Laredo has the highest truck volume and makes up 57.6% of land port trade in the state of Texas, or about $234.7 billion in the year 2018 (Texas.GOV). Monitoring this port can help forcast finances, and drive economic decisions for policy makers. 
 
+## TWB File
 
+The Tableau workbook file is attached to the repository.
