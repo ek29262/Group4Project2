@@ -15,7 +15,7 @@ The dataset contains dimensions that capture the mode of transportation, the dat
 
 ## Data Manipulations
 
-In tableau we set the date of crossing as a date data type. 
+In tableau we set the date of crossing as a date data type. We also renamed certain dimensions in tableau to make more sense, such as renaming "value" to "traffic" which represents the amount of border crossings for a given data point.
 
 ## Considerations:
 
