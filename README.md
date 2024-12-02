@@ -35,3 +35,11 @@ Are there any trends in border crossing based on time dependent factors, such as
 
 This question can help dictate if their are any fluctations in border crossing volume based on time dependent factors. From the fluctations we can try to create some explanations. By anticipating an increase in border crossing volume Customs and Border Protection can prepare their resources to accomodate the amount of traffic coming in. This information can also help drive policy decisions and can be used to help determine the economic impact of border crossing activity.
 
+![image](https://github.com/user-attachments/assets/6eff26eb-ca47-4e19-b79a-beb0f7a5df1b)
+
+Migration over many years follows a consistent pattern. 
+
+![image](https://github.com/user-attachments/assets/75cfb09e-b418-40a3-bfbb-cc6a0547542a)
+
+Migration peaks in the summer months and falls in the winter months. This suggest that the weather brought about by winter creates adverse conditions which discourages travel. There is a slight climb in the month of December. This suggest families are crossing the border to see relatives for Christmas and potentially increased movements of goods to meet increased demand for the holidays. After December border crossings continue to fall until reaching their lowest point in February. 
+
